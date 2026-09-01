@@ -73,7 +73,7 @@ export default function Footer() {
             <h4 className="text-sm font-bold uppercase tracking-wide text-white/80">Contact</h4>
             <ul className="mt-4 space-y-2.5">
               <li><a href="mailto:hello@mobivo.co.uk" className="text-sm text-white/50 transition-colors hover:text-electric-400">hello@mobivo.co.uk</a></li>
-              <li><span className="text-sm text-white/50">0800 000 0000</span></li>
+              <li><span className="text-sm text-white/50">0203 376 8873</span></li>
               <li><span className="text-sm text-white/50">Mon–Fri, 9am–6pm</span></li>
             </ul>
           </div>
